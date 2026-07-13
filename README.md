@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Mufasa-tech19
 - 👀 I’m interested in ...cyber security
-- 🌱 I’m currently learning ...cyber security
+- 🌱 I’m currently learning ...cyber security $oftware Development
 - 💞️ I’m looking to collaborate on ...red teaming
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...Him,Sir,Mister
 - ⚡ Fun fact: ...
 
 <!---
